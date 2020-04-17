@@ -1,0 +1,98 @@
+
+
+.jumbotron{
+	   background-image:url("ha2.jpg.png");
+	   background-size:cover;
+	   padding-top: 20px;
+	   padding-bottom: 50px;
+	   padding-right: 50px;
+	   padding-left:50px;
+	   opacity: .8;
+}
+
+.jumbotron:hover{
+	opacity: 1.4; 
+
+}
+
+.display-4{
+	color: white;
+	font-family: fantasy;
+	text-align: center;
+	font-size: 80px;
+	
+}
+
+.lead{
+	color: white;
+	font-family: cursive;
+	text-align: center;
+	font-size: 30px;
+
+}
+.bed{
+	color: white;
+	font-family: cursive;
+	text-align: center;
+	font-size: 28px;
+}
+body{
+	background-color: #021859;
+}
+
+.card-title{
+	color: #F25CA2;
+	font-family: fantasy;
+	text-decoration: underline;
+	text-align:center;
+	font-size: 45px;
+}
+.card-body{
+	background-color:#021859;
+	
+
+}
+.card{
+	border: none;
+}
+
+.col-md-12{
+	color: white;
+	font-family: fantasy;
+	font-size: 20px;
+	
+}
+
+.img-fluid{
+	height: 300px;
+}
+
+.navbar-expand{
+	background-color:#021859; 
+
+
+}
+
+
+
+.navbar-brand {
+	color: white;
+
+}
+.nav-link{
+	  color:white;
+}
+
+p{
+	margin-left: 35px;
+	margin-top: 20px;
+	color: white;
+	font-family: fantasy;
+	font-size: 25px;
+
+}
+
+form{
+	margin-left:560px;
+	color: white;
+	width: 200px;

@@ -1,0 +1,141 @@
+body{
+	background-color:#021859;
+}
+
+
+.jumbotron {
+	   background-image:url("ha2.jpg.png");
+	   background-size:cover;
+	   padding-top: 20px;
+	   padding-bottom: 50px;
+	   padding-right: 50px;
+	   padding-left:50px;
+	   opacity: .8;
+	}
+
+.display-4{
+	color: white;
+	font-family: fantasy;
+	text-align: center;
+	font-size: 80px;
+}
+
+.lead{
+	color: white;
+	font-family: cursive;
+	text-align: center;
+	font-size: 30px;
+
+}
+.container1{
+	background-color:#F25CA2;
+	opacity:.8;
+}
+.project{
+	color: white;
+	font-family: fantasy;
+	text-align: center;
+	font-size: 45px;
+	text-decoration: underline;
+}
+
+.projectp{
+	color: white;
+	     font-family: fantasy;
+	     text-align: center;
+	     font-size: 25px;
+}
+
+.card-title{
+	background-color:#021859;
+	color: white;
+	font-family: fantasy;
+	text-align: center;
+	font-size: 50px;
+
+}
+
+.card-body{
+	background-color: #021859;
+	border-style: none;
+}
+
+.img-fluid{
+
+	width: 800px;
+	height: 500px;
+	transition: 1s;
+	margin-left: 
+	
+	
+}
+.img-fluid:hover{
+	        transform: scale(1.1);
+
+}
+.col-md-8{
+	color: white;
+	font-family: fantasy;
+	font-size: 25px;
+	margin left:100px;
+	
+}
+.img-fluid1{
+	width: 800px;
+	height: 500px;
+	transition: 1s;
+	margin-left: 100px;
+}
+.img-fluid1:hover{
+	        transform: scale(1.1);
+}
+
+.container3{
+	background-color:#F25CA2;
+	opacity:.8;
+
+}
+.blog{
+      color: white;
+      font-family: fantasy;
+      font-size: 50px;
+      text-align: center;
+
+
+}
+
+.blogp{
+	font-family: fantasy;
+	color: white;
+	font-size: 25px;
+	margin-left: 45px;
+
+}
+
+.col-md-8{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+.img-fluid{
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+	margin-bottom: 0;
+
+
+
+}
+.row{
+	display: flex;
+}
+.column {
+  flex: 33.33%;
+  padding: 5px;
+  margin-left:30x;
+}
+.column:hover{
+	transform: scale(1.1);
+}
